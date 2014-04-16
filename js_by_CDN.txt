@@ -1,0 +1,4 @@
+ This file contains frequently used jS files with CDN.
+ just copy the link, you don't need to host it
+
+ <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
